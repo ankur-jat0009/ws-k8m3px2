@@ -1,0 +1,9 @@
+.git
+.github
+.pytest_cache
+node_modules
+dist
+build
+docs
+*.md
+.env
